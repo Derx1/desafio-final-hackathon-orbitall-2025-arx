@@ -23,7 +23,7 @@ API REST desenvolvida em Java + Spring Boot para gerenciamento de clientes e reg
 
 1. **Clone o repositório:**
 ```bash
-git clone <https://github.com/Derx1/desafio-final-hackathon-orbitall-2025>
+git clone <https://github.com/Derx1/desafio-final-hackathon-orbitall-2025-arx>
 cd desafio-final-hackathon-orbitall-2025-main/channels
 ```
 
